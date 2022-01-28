@@ -1,7 +1,7 @@
-# {project title} ✨
+# Rest API using Express or Flask ✨
 
 ### Description
-{mini project description goes here...}
+An functional API that can process and manipulate data.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
